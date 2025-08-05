@@ -1,1 +1,1 @@
-Welcome to my portfolio! I'm a [Your Profession], passionate about building [describe what you build, e.g., interactive web experiences, data-driven applications, etc.]. This portfolio showcases my skills, projects, and professional journey.
+Welcome to my portfolio! I'm a Front end developer, passionate about building Portfolio. This portfolio showcases my skills, projects, and professional journey.
